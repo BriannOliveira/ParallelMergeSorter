@@ -1,0 +1,21 @@
+# Arquivos compilados
+*.class
+out/
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e saída
+*.log
+saida-*.txt
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~
